@@ -16,6 +16,8 @@
 - [GATI](https://github.com/bkkmw/GATI) - FE
 - [Shadow Removal](https://github.com/bkkmw/SR_via_Attention_Mechanism_and_Recurrent_Network) - Research about Deep Learning
 
+### PDA
+- [EC2](https://nervous-net-241.notion.site/EC2-Tx-small-50afb8a9cdfe4b789d53135c1454cf71?pvs=4)
 ---
 
 <h4 align="center">
