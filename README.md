@@ -1,7 +1,7 @@
 ### Hi 👋
 
 ### Skills 🛠️
-- **Languages**: &nbsp; Java, SQL
+- **Languages**: &nbsp; Java, JavaScript, SQL
 - **Back-Eend**: &nbsp; Spring, Spring Security, JPA, express.js
 - **Front-End**: &nbsp; React, Vue.js
 - **DevOps**:    &nbsp; Git, Docker, Jenkins
@@ -9,7 +9,7 @@
 ### Education & Experience 🎓
 - Electronics, Konkuk Univ. (2016 - 2022)
 - SSAFY(Samsung Software Academy For Youth) 8th (2022 - 2023)
-- Prodigital Academy(-Shinhan Securities) 3rd (2023 - ing)
+- Pro Digital Academy(-Shinhan Securities) 3rd (2023 - ing)
 
 ### Projects 🐾
 - [Groot](https://github.com/bkkmw/Groot) - BE, DevOps
