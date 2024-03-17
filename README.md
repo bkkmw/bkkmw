@@ -2,18 +2,20 @@
 
 ### Skills 🛠️
 - **Languages**: &nbsp; Java, SQL
-- **Back-Eend**: &nbsp; Spring, Spring Security, JPA
+- **Back-Eend**: &nbsp; Spring, Spring Security, JPA, express.js
 - **Front-End**: &nbsp; React, Vue.js
-- **DevOps**:    &nbsp; Linux, Git, Docker
+- **DevOps**:    &nbsp; Git, Docker, Jenkins
 
 ### Education & Experience 🎓
 - Electronics, Konkuk Univ. (2016 - 2022)
 - SSAFY(Samsung Software Academy For Youth) 8th (2022 - 2023)
+- Prodigital Academy(Shinhas Securities) 3rd (2023 - ing)
 
 ### Projects 🐾
 - [Groot](https://github.com/bkkmw/Groot) - BE, DevOps
 - [BillBoard](https://github.com/bkkmw/BillBOard) - BE
 - [GATI](https://github.com/bkkmw/GATI) - FE
+- [Mubakoil](https://github.com/PDA-MUBAKOIL) - Data, DevOps
 - [Shadow Removal](https://github.com/bkkmw/SR_via_Attention_Mechanism_and_Recurrent_Network) - Research about Deep Learning
 
 ---
